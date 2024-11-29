@@ -9,7 +9,7 @@ h1 {
     align-items: center;
     margin-top: 20px;
     width: 350px;
-    height: 520px;
+    height: 500px;
     border-radius: 15px;
     padding-top: 15px;
     border: solid 1.5px;
@@ -48,16 +48,20 @@ a {
     text-decoration: none;
     border-radius: 5px;
 }
+.Meals{
+    display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
 
 @media only screen and (min-width: 600px) and (max-width: 1024px) {
-    .cards {
+    .Meals {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
 @media only screen and (min-width: 1024px) {
-    .recipe {
+    .Meals{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
     }
