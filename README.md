@@ -68,9 +68,10 @@ Or simply double-click the 'index.html' file to open it in your browser.
 This Recipe website is a platform where users can explore, save, and share a variety of recipes categorized by cuisine, dietary preferences, and meal types. It provides step-by-step instructions, nutritional information, and meal-planning tools. Users can engage with the community through reviews and comments, while also learning cooking techniques and tips.
 
 ## Screenshots
-<img width="377" alt="Hotelwebsitescreenshot1" src="https://github.com/user-attachments/assets/adbe96b8-07a8-491c-be68-657f40c0fa63">
-<img width="295" alt="Hotelwebsitescreenshot2" src="https://github.com/user-attachments/assets/592dd3f2-3670-406f-ac6e-1ecb46964d9e">
-<img width="279" alt="Hotelwebsitescreenshot3" src="https://github.com/user-attachments/assets/a332cae7-dbf7-4c9f-8297-92b9a143c121">
+<img width="912" alt="Recipe screenhot1" src="https://github.com/user-attachments/assets/372a061f-ddc1-4b04-b041-e2a4600b893f">
+<img width="916" alt="Recipe screenshot2" src="https://github.com/user-attachments/assets/368e8a06-97fc-425d-afa1-652eee08e9d4">
+<img width="913" alt="Recipe screenshot3" src="https://github.com/user-attachments/assets/86766361-42b0-4ce5-a1b8-142d4dd929c5">
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
