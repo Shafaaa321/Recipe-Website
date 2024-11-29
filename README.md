@@ -1,4 +1,4 @@
-# Hotel-Website
+# Recipe Website
 This Recipe website is a digital platform designed to provide users with a curated collection of culinary rcipes, cooking techniques, and meal-planning ideas. It typically features a variety of recipes categorized by cuisine, dietary preferences, and meal types.
 
 ## Table of Contents
