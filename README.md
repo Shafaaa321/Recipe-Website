@@ -32,7 +32,7 @@ In this website, we prioritize quality and convenience. Each recipe is meticulou
 Join our thriving community of food lovers and elevate your kitchen experience with expert tips, ingredient substitutions, and meal-planning ideas. Explore, create, and savor every bite with this website where passion for cooking meets simplicity and flavor.
 
 ## Live Demo
-Check out the live demo of the project: https://hotel-website-w6vf.onrender.com
+Check out the live demo of the project: https://recipe-website-rluz.onrender.com
 
 ## Features
 Some key features include: 
