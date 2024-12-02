@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+}
+.cards {
+    align-items: center;
+    margin-top: 20px;
+    width: 350px;
+    height: 500px;
+    border-radius: 15px;
+    padding-top: 15px;
+    border: solid 1.5px;
+    border-color: whitesmoke;
+    text-align: center;
+    background-color: white;
+    margin-left: 30px;
+}
+.food-pic {
+    width: 140px;
+    height: 140px;
+    border-radius: 10px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: gray;
+}
+li {
+    font-weight: 100;
+    margin-top: 5px;
+    text-decoration: none;
+    list-style: none;
+    margin-right: 40px;
+    font-size:15px;
+}
+a {
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6347;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.Meals{
+    display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+@media only screen and (min-width: 600px) and (max-width: 1024px) {
+    .Meals {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .Meals{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
